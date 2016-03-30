@@ -31,8 +31,12 @@ input {
   margin-bottom: 40px;
 }
 
-.answer {
+.answer-text {
   font-size: 80px;
   color: cyan;
   font-family: 'Lobster';
+}
+
+.hide {
+  display: none;
 }
